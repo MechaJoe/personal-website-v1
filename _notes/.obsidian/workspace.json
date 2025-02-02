@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "949303866e0e8107",
+    "type": "split",
+    "children": [
+      {
+        "id": "160e1840320d31d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94940517b14a4bb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "move your body every day.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "move your body every day"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0abf6840cd8cdf2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "63babf8328b9702a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f93458afa4a9d69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bb43cc7e4bd590d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d48676e976e179e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "065544354d13d6fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c90a4f3f13a43f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b8aba16463e84a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "move your body every day.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for move your body every day"
+            }
+          },
+          {
+            "id": "483a59d296c2cd98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "move your body every day.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from move your body every day"
+            }
+          },
+          {
+            "id": "225d30874d56eb76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1c296b941c098056",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "move your body every day.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of move your body every day"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "94940517b14a4bb4",
+  "lastOpenFiles": [
+    "your-first-note.md",
+    "안녕하세요.md"
+  ]
+}
