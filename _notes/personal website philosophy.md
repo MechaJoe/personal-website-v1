@@ -2,7 +2,7 @@
 title: personal website philosophy
 ---
 
-I finally got around to re-buying the domain of my full name. 
+I finally got around to rebuying the domain of my full name. 
 
 The first time I attempted at a personal website, I used it to learn the basics of Svelte and some CSS. But it turned out super pretentious, and trying to learn the design skills necessary to make it look good was something I quickly lost momentum for.
 
