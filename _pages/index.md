@@ -7,13 +7,12 @@ permalink: /
 
 ## about
 
-hey. my name is joe, and I'm currently a software engineer in boston.
+hey. my name is joe, and I'm currently a software engineer in boston. ([linkedin](https://www.linkedin.com/in/joe-konno/) [github](https://github.com/MechaJoe))
 
-[`linkedin`](https://www.linkedin.com/in/joe-konno/)
+my other interests include electronic music, [reading](https://www.goodreads.com/user/show/110022557-joe-konno), skiing, and amateur
+distance running
 
-my other interests include electronic music, reading, skiing, and amateur distance running
-
-## posts
+## writing
 
 <ul>
   {% for note in site.notes | sort: "last_modified_at_timestamp" | reverse %}

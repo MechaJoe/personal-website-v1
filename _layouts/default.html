@@ -5,7 +5,9 @@
     <nav>{% include nav.html %}</nav>
     <div class="wrapper">
       <main>{{ content }}</main>
+      {% if page.title != 'Home' %}
       <footer>{% include footer.html %}</footer>
+      {% endif %}
     </div>
 
     {% include link-previews.html wrapperQuerySelector="content" %}

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "getting back into writing. time for some real grit.md",
+                "file": "JOE'S DEFINITIVE GHIBLI RANKING.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "getting back into writing. time for some real grit"
+              "title": "JOE'S DEFINITIVE GHIBLI RANKING"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "getting back into writing. time for some real grit.md",
+                "file": "JOE'S DEFINITIVE GHIBLI RANKING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for getting back into writing. time for some real grit"
+              "title": "Backlinks for JOE'S DEFINITIVE GHIBLI RANKING"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "getting back into writing. time for some real grit.md",
+                "file": "JOE'S DEFINITIVE GHIBLI RANKING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from getting back into writing. time for some real grit"
+              "title": "Outgoing links from JOE'S DEFINITIVE GHIBLI RANKING"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "getting back into writing. time for some real grit.md"
+                "file": "JOE'S DEFINITIVE GHIBLI RANKING.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of getting back into writing. time for some real grit"
+              "title": "Outline of JOE'S DEFINITIVE GHIBLI RANKING"
             }
           }
         ]
@@ -164,8 +164,12 @@
   },
   "active": "5981bc388f717e3d",
   "lastOpenFiles": [
-    "your-first-note.md",
+    "_staging",
     "getting back into writing. time for some real grit.md",
+    "JOE'S DEFINITIVE GHIBLI RANKING.md",
+    "JOE'S DEFINITIVE GHIBLI RANKING",
+    "personal website philosophy.md",
+    "your-first-note.md",
     "move your body every day.md",
     "안녕하세요.md"
   ]
