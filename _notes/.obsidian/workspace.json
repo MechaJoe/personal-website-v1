@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94940517b14a4bb4",
+            "id": "5981bc388f717e3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "move your body every day.md",
+                "file": "getting back into writing. time for some real grit.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "move your body every day"
+              "title": "getting back into writing. time for some real grit"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "move your body every day.md",
+                "file": "getting back into writing. time for some real grit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for move your body every day"
+              "title": "Backlinks for getting back into writing. time for some real grit"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "move your body every day.md",
+                "file": "getting back into writing. time for some real grit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from move your body every day"
+              "title": "Outgoing links from getting back into writing. time for some real grit"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "move your body every day.md"
+                "file": "getting back into writing. time for some real grit.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of move your body every day"
+              "title": "Outline of getting back into writing. time for some real grit"
             }
           }
         ]
@@ -162,9 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94940517b14a4bb4",
+  "active": "5981bc388f717e3d",
   "lastOpenFiles": [
     "your-first-note.md",
+    "getting back into writing. time for some real grit.md",
+    "move your body every day.md",
     "안녕하세요.md"
   ]
 }
