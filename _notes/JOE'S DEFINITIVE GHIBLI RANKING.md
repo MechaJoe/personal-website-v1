@@ -26,3 +26,5 @@ Need to Watch:
 - **From Up on Poppy Hill**
 - **The Wind Rises**
 - **The Tale of the Princess Kaguya**
+
+**bold** = not directed by [Miyazaki](https://en.wikipedia.org/wiki/Hayao_Miyazaki)
